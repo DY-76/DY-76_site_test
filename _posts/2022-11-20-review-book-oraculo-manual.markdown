@@ -3,7 +3,7 @@ layout: post
 title: "[리뷰★] 사람을 얻는 지혜"  
 subtitle: "Oraculo manual y arte de prudencia"  
 categories: review  
-tags: review Dev ML 커뮤니케이션 웅변 신중 미덕 현실 안목 관계 내면 평정심 온전함 성숙 처세술 지혜    
+tags: review dev ml 커뮤니케이션 웅변 신중 미덕 현실 안목 관계 내면 평정심 온전함 성숙 처세술 지혜    
 comments: true  
 header-img: img/review/review-book-oraculo-manual-1.png
 ---  

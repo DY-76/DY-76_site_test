@@ -3,6 +3,6 @@ layout: tag-blog
 title: EnvOps
 slug: envOps
 category: envOps
-menu: true
+menu: false
 order: 1
 ---
