@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: DL
-slug: dl
+title: R
+slug: r
 category: dev
 menu: false
-order: 2
+order: 3
 ---
