@@ -58,7 +58,7 @@ LDY76:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           tel01030997456@gmail.com
-    rss:             https://DY-76.github.io/feed.xml
+    # rss:             https://DY-76.github.io/
 
 # Another author
 mdo:
