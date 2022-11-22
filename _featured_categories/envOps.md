@@ -1,10 +1,10 @@
 ---
 layout: list
 title: EnvOps
-slug: envops
+slug: envOps
 menu: true
 submenu: true
-order: 2
+order: 4
 description: >
   클라우드 컴퓨팅 세팅, IDE 관련
 ---
